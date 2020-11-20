@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  UnitTest3.cpp
+C:\Users\user\Desktop\programming\virtual studio\Labworkrange\Labworkrange.cpp(10,16): warning C4101: 'x': unreferenced local variable
+C:\Users\user\Desktop\programming\virtual studio\UnitTest3\UnitTest3.cpp(19,17): error C3861: 'calculate': identifier not found
